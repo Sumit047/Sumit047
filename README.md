@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumit
-- 🌱 I’m currently learning App development with Flutter
+- 🌱 I’m currently working on Real Time Sign Language Recognition
 - 📢Ask me about JavaScript,React and Dart.
 - ⚡ Fun fact I love watching Cartoons!!
 
