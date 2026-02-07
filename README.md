@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit
 - 🌱 I’m currently working on Real Time Sign Language Recognition
-- 📢Ask me about JavaScript,React and Dart.
+- 📢Ask me about C/C++ ,Java.
 - ⚡ Fun fact I love watching Animes!!
 
 <!---
